@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "4kqd2J75vl+Ps+enpcoFN3Pa7O12wfVq3h1SEWtC6Nz1FlHbFXP8dFxxQX4Yh5Cx+aJTFaRmbRzGsDHU16OkOg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\yigit\\OneDrive\\Masaüstü\\WhatToCookForm\\WhatToCookForm.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to read project information for 'WhatToCookForm': Invalid framework identifier ''."
+    }
+  ]
+}
